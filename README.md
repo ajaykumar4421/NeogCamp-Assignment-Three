@@ -11,3 +11,7 @@ I know Basics of
 2.CSS
 
 3.JavaScript
+
+4.Java
+
+5.Node JS
